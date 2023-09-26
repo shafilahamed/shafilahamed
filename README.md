@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning various machine learning techniques.
 - 👯 I’m looking to collaborate on Machien learning projects.
 - 💬 Ask me about Artificial Intelligence, Statistics, DataScience, Chess.
-- 📫 How to reach me: 9790257779.
+
